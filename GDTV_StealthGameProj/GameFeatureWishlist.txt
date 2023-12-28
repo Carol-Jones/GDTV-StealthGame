@@ -1,0 +1,5 @@
+GDTV Stealth Game Wishlist
+
+1) Key Prompt pop up when in range of something interactable
+2) Ability to shoot
+3) Enemies that can shoot back
